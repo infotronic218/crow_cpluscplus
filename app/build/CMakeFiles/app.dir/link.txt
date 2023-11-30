@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -pg  -g -pg CMakeFiles/app.dir/app.cpp.o -o app  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.74.0 /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.74.0 

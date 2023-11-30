@@ -1,0 +1,3 @@
+/home/sous/apps/cpp2023/crow_cpluscplus/app/build/CMakeFiles/app.dir
+/home/sous/apps/cpp2023/crow_cpluscplus/app/build/CMakeFiles/edit_cache.dir
+/home/sous/apps/cpp2023/crow_cpluscplus/app/build/CMakeFiles/rebuild_cache.dir
